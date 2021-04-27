@@ -1,0 +1,89 @@
+/* Orange - FF4E00
+Olive - 8EA604
+Caramel - F5BB00
+Apricot - EC9F05
+Redwood - BF3100 */
+
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.bg-orange{
+    background-color: #FF4E00;
+}
+.bg-olive{
+    background-color: #8EA604;
+}
+.bg-carmel{
+    background-color: #F5BB00;
+}
+.bg-apricot{
+    background-color: #EC9F05;
+}
+.bg-redwood{
+    background-color: #BF3100;
+}
+.txt-orange{
+    color: #FF4E00;
+}
+.txt-olive{
+    color: #8EA604;
+}
+.txt-carmel{
+    color: #F5BB00;
+}
+.txt-apricot{
+    color: #EC9F05;
+}
+.txt-redwood{
+    color: #BF3100;
+}
+.txt-redwood a{
+    color: #BF3100;
+}
+.txt-redwood a:hover{
+    color: #8EA604;
+}
+.txt-white{
+    color: white
+}
+.txt-black{
+    color: black
+}
+.title{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+.subtitle{
+    font-family: "Brush Script MT", cursive;
+    font-weight: normal;
+    font-size: 30px;
+}
+.boxheight{
+    height: 400px;
+    font-size: 40px;
+}
+.parallax{
+    /* The image used */
+    background-image: url("/HTML-CSS/Homework/Restaurant/Images/menu.jpg");
+    /* Set a specific height */
+    height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2{
+    /* The image used */
+    background-image: url("/HTML-CSS/Homework/Restaurant/Images/margaritas.jpg");
+    /* Set a specific height */
+    height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

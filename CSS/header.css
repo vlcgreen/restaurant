@@ -1,0 +1,25 @@
+.header{
+    height: 500px;
+    overflow: hidden; 
+    background-color: #8EA604;
+}
+.header1{
+    height: 200px;
+    overflow: hidden; 
+    background-color:#EC9F05;
+}
+.section1{
+    height: 400px;
+    overflow: hidden; 
+    background-color:#BF3100;
+}
+.section2{
+    height: 300px;
+    overflow: hidden; 
+    background-color:#EC9F05;
+}
+.section3{
+    height: 400px;
+    overflow: hidden; 
+    background-color:#8EA604;
+}

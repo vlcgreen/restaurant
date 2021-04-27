@@ -67,7 +67,7 @@ body{
 }
 .parallax{
     /* The image used */
-    background-image: url("/HTML-CSS/Homework/Restaurant/Images/menu.jpg");
+    background-image: url("/Restaurant/Images/menu.jpg");
     /* Set a specific height */
     height: 500px;
     /* Create the parallax scrolling effect */
@@ -78,7 +78,7 @@ body{
 }
 .parallax2{
     /* The image used */
-    background-image: url("/HTML-CSS/Homework/Restaurant/Images/margaritas.jpg");
+    background-image: url("/Restaurant/Images/margaritas.jpg");
     /* Set a specific height */
     height: 500px;
     /* Create the parallax scrolling effect */
